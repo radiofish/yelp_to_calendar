@@ -16,3 +16,4 @@ Simple Installation Steps:
 Agree that this isnt ideal since it takes two steps to add to calendar but its better than the alternative of creating a calendar from scratch.
 
  
+[1]:  javascript:void($.getScript('https://raw.githubusercontent.com/radiofish/yelp_to_calendar/master/add_to_calendar.js'));
